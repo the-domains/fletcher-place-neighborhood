@@ -1,0 +1,28 @@
+name: Fletcher Place Neighborhood
+favicon: null
+layout_spectrum: 0.22085158433765173
+typography_spectrum: 0.8960196918342263
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.145444625755772
+  lightness: 0.3767919938545674
+  saturation: 0.4785901417490095
+  rhythmicContrast: 0.8408425350207835
+purpose: []
