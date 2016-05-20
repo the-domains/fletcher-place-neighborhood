@@ -1,7 +1,7 @@
 name: Fletcher Place Neighborhood
 favicon: null
-layout_spectrum: 0.22085158433765173
-typography_spectrum: 0.8960196918342263
+layout_spectrum: 0.5
+typography_spectrum: 0.49054
 title: Fletcher Place Neighborhood
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#231f20'
   brandStrength: 0.5
   lightness: 0.1875
-  saturation: 0.875
+  saturation: 0.125
   rhythmicContrast: 0.8408425350207835
 purpose: []
