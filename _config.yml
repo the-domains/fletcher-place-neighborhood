@@ -2,6 +2,7 @@ name: Fletcher Place Neighborhood
 favicon: null
 layout_spectrum: 0.22085158433765173
 typography_spectrum: 0.8960196918342263
+title: Fletcher Place Neighborhood
 cta:
   domain: null
   bucket: null
